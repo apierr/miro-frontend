@@ -2,6 +2,7 @@
     "name": "miro-frontend",
     "version": "0.0.1",
     "description": "Miro Generates reports from a DataFrame",
+    "homepage": ".",
     "main": "",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
